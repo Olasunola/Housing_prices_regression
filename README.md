@@ -10,7 +10,6 @@ In this project, we are going to investigate different housing features of both 
 ## DATASET
 
 The dataset consist of different features in a modern house both in categorical form and numerical form.
-We will be using the train.csv  which can be can be found on https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data. 
 
 
 ## AIMS & OBJECTIVE
